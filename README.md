@@ -2,5 +2,5 @@
 
 ```bash
 wget -q https://script.install.devinsideyou.com/fzf
-sudo chmod +x fzf && ./fzf
+chmod +x fzf && ./fzf
 ```
